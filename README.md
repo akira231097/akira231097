@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sarath Chandra Gentela 👋</h1>
+<h1 align="center">Hi, I'm Sarath Chandra Gentela </h1>
 <h3 align="center">AI Agent Harness & LLM Systems Engineer</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About
+## About
 
 I'm an **AI Engineer** focused on **agentic systems, retrieval, and LLM inference**.
 At **Spice** ([thespice.ai](https://thespice.ai)) I built the company's AI products and
@@ -33,7 +33,7 @@ and LLM inference engineering**.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -43,11 +43,11 @@ and LLM inference engineering**.
 | **[Artha Council](https://github.com/akira231097/artha-council)** | Staged, **multi-model AI investment committee** with a fail-closed **OpenClaw agentic broker bridge** | GPT-5.5 · Gemini · Claude · MCP |
 | **[Commitment Decay Engine](https://github.com/akira231097/commitment-decay-engine)** | Turns meeting transcripts into a commitment **ledger** and reconciles follow-through | Python · CLI · LLM-ready |
 
-> 💡 **New here?** Start with **[EchoFind](https://github.com/akira231097/echofind)** (memory-aware RAG) or **[Artha Council](https://github.com/akira231097/artha-council)** (multi-model agents + fail-closed agentic execution).
+> **New here?** Start with **[EchoFind](https://github.com/akira231097/echofind)** (memory-aware RAG) or **[Artha Council](https://github.com/akira231097/artha-council)** (multi-model agents + fail-closed agentic execution).
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -84,7 +84,7 @@ and LLM inference engineering**.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=akira231097&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats">
